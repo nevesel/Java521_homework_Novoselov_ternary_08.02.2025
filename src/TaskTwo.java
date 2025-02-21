@@ -1,6 +1,10 @@
 import java.util.Scanner;
 
-public class Task2 {
+//TODO: Напишите программу, которая сравнивает два введенных числа и выводит наибольшее из них
+// с использованием тернарного оператора.
+
+public class TaskTwo {
+
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Введите первое число: ");
